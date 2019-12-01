@@ -1,5 +1,6 @@
 import sys
 
+# Function used for getting the fuel requirement
 def fuel_req(mass): return (mass // 3) - 2
 
 total = 0
